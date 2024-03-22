@@ -1,0 +1,19 @@
+.reg-div {
+    width: auto;
+    display: flex;
+    margin-left: 88%;
+}
+a {
+    padding: 5px;
+}
+.main_h1 {
+    font-size: 70px;
+    margin-top: auto;
+    text-align: center;
+    width: auto;
+    height: 100%;
+}
+
+.container{
+    height: 100vh;
+}
